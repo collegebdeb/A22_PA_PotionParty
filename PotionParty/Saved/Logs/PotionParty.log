@@ -975,3 +975,163 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.14-20.58.39:559][687]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/WaterfallDC40E32843A0C68722187A850CB71421.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
 [2022.09.14-20.58.39:577][687]AssetCheck: New page: Asset Save: Waterfall
 [2022.09.14-20.58.39:577][687]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-20.59.05:252][840]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.09.14-20.59.22:674][881]Cmd: EDIT COPY
+[2022.09.14-20.59.22:873][893]Cmd: EDIT PASTE
+[2022.09.14-20.59.53:839][718]Cmd: EDIT COPY
+[2022.09.14-20.59.54:021][729]Cmd: EDIT PASTE
+[2022.09.14-21.00.23:011][204]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.09.14-21.00.36:559][ 15]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.09.14-21.00.36:938][ 37]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.09.14-21.00.37:314][ 56]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.09.14-21.00.38:102][103]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.09.14-21.00.38:871][149]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.09.14-21.00.40:411][238]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.09.14-21.00.40:450][238]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/Waterfall7F3F5759444E25B9FDC0D6B912198537.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.00.40:481][238]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.00.40:481][238]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.00.41:079][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.09.14-21.00.41:119][271]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/Waterfall50618ACF422FF3E683E5BFBDCE931266.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.00.41:140][271]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.00.41:140][271]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.00.41:260][276]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.09.14-21.00.41:293][276]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/Waterfall615BA91A41B3E28AAB926981F7E780F1.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.00.41:314][276]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.00.41:314][276]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.00.41:409][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.09.14-21.00.41:443][279]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/Waterfall2AB161A4433CF7ACBD5F7E82A9188B45.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.00.41:467][279]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.00.41:467][279]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.00.41:577][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.09.14-21.00.41:615][282]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/Waterfall4201F032492B497D3296658CC4193A0B.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.00.41:639][282]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.00.41:639][282]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.00.41:728][285]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2022.09.14-21.00.41:764][285]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/Waterfall54D326BC4387786061072999519175CB.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.00.41:787][285]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.00.41:787][285]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.00.41:894][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.09.14-21.00.41:930][288]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/Waterfall2FBD4AE243DB90097170F99305F5F4EB.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.00.41:954][288]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.00.41:954][288]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.00.42:175][298]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.09.14-21.00.42:208][298]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/Waterfall790AA6E64ABB5BD423C974A4C60CC6A0.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.00.42:231][298]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.00.42:231][298]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.00.42:531][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.09.14-21.00.42:563][313]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/Waterfall0E980F9E4457D7CF16783482A7B79590.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.00.42:587][313]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.00.42:587][313]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.00.42:862][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2022.09.14-21.00.42:899][326]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/Waterfall7DD0434C4ACCDE9CB63315AD7ED99C94.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.00.42:921][326]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.00.42:921][326]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.00.43:030][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.09.14-21.00.43:074][330]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/Waterfall40B058804162EBF81BCB169C1FB4EDFF.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.00.43:102][330]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.00.43:102][330]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.00.43:194][332]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.09.14-21.00.43:230][332]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/WaterfallD40F21A44E2F4CC4283B35AC6FCB378E.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.00.43:252][332]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.00.43:252][332]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.00.43:358][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.09.14-21.00.43:391][335]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/Waterfall73FE98634890A3B80FE9C5BDDD35A6AF.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.00.43:413][335]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.00.43:413][335]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.00.43:514][338]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.09.14-21.00.43:548][338]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/Waterfall45C2BAAE4F31AF672CFE6E8791601DD1.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.00.43:570][338]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.00.43:570][338]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.00.43:667][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2022.09.14-21.00.43:705][340]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/Waterfall37E47C89476F1950B12A098B28A4585F.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.00.43:732][340]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.00.43:732][340]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.00.48:717][637]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.09.14-21.00.49:526][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.09.14-21.00.49:561][682]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/Waterfall0DEE39644518A282E2351DBE7F6AA349.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.00.49:576][682]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.00.49:577][682]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.00.49:692][686]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.09.14-21.00.49:726][686]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/WaterfallB1D554AD4DF79600FF684186CACF75DB.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.00.49:745][686]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.00.49:745][686]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.00.50:477][728]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2022.09.14-21.00.50:519][728]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/Waterfall2B3D2BF449BDBFC9C77F2991EA1E4695.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.00.50:535][728]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.00.50:535][728]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.01.07:926][772]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.09.14-21.01.08:621][811]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2022.09.14-21.01.08:654][811]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/WaterfallFAF2943B4E4AFBA6737EF99CE9129810.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.01.08:668][811]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.01.08:668][811]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.01.08:773][815]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.09.14-21.01.08:807][815]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/Waterfall358DF3444A5ECECF8D6EA5893EA09409.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.01.08:824][815]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.01.08:825][815]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.01.08:960][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.09.14-21.01.08:996][820]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/Waterfall8255B58D423FC073A0AAA8A55E528D5D.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.01.09:015][820]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.01.09:015][820]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
+[2022.09.14-21.01.47:317][115]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.09.14-21.01.53:895][505]LogTemp: Repeating last play command: Selected Viewport
+[2022.09.14-21.01.53:901][505]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.09.14-21.01.53:902][505]PIE: New page: PIE session: Waterfall (14 sept. 2022 13 h 01 min 53 s)
+[2022.09.14-21.01.53:904][505]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.09.14-21.01.53:906][505]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.09.14-21.01.53:906][505]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Level/Game/sous_niveau/UEDPIE_0_Waterfall
+[2022.09.14-21.01.53:918][505]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011400s)
+[2022.09.14-21.01.53:919][505]LogAIModule: Creating AISystem for world Waterfall
+[2022.09.14-21.01.53:919][505]LogPlayLevel: PIE: World Init took: (0.001593s)
+[2022.09.14-21.01.53:919][505]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall to /Game/ThirdPersonBP/Level/Game/sous_niveau/UEDPIE_0_Waterfall.Waterfall (0.013151s)
+[2022.09.14-21.01.53:925][505]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2022.09.14-21.01.53:927][505]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.09.14-21.01.53:927][505]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.09.14-21.01.53:927][505]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.09.14-21.01.53:927][505]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.09.14-21.01.53:927][505]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.09.14-21.01.53:927][505]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.09.14-21.01.53:927][505]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.09.14-21.01.53:927][505]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.09.14-21.01.53:927][505]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.09.14-21.01.53:928][505]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.09.14-21.01.53:928][505]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.09.14-21.01.53:928][505]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.09.14-21.01.53:928][505]LogAudioMixer: Display: Initializing audio mixer.
+[2022.09.14-21.01.53:935][505]LogAudioMixer: Display: 0: FrontLeft
+[2022.09.14-21.01.53:935][505]LogAudioMixer: Display: 1: FrontRight
+[2022.09.14-21.01.53:948][505]LogAudioMixer: Display: Using Audio Device Headphones (AirPods de Noah)
+[2022.09.14-21.01.53:948][505]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.09.14-21.01.53:948][505]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.09.14-21.01.53:948][505]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.09.14-21.01.53:949][505]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.09.14-21.01.53:949][505]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.09.14-21.01.53:949][505]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.09.14-21.01.53:950][505]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.09.14-21.01.53:950][505]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.09.14-21.01.53:950][505]LogInit: FAudioDevice initialized.
+[2022.09.14-21.01.53:950][505]LogAudio: Display: Audio Device (ID: 2) registered with world 'Waterfall'.
+[2022.09.14-21.01.53:986][505]LogLoad: Game class is 'BP_GameMode_C'
+[2022.09.14-21.01.53:990][505]LogWorld: Bringing World /Game/ThirdPersonBP/Level/Game/sous_niveau/UEDPIE_0_Waterfall.Waterfall up for play (max tick rate 60) at 2022.09.14-17.01.53
+[2022.09.14-21.01.53:990][505]LogWorld: Bringing up level for play took: 0.001850
+[2022.09.14-21.01.53:990][505]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2022.09.14-21.01.53:995][505]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2022.09.14-21.01.53:997][505]PIE: Server logged in
+[2022.09.14-21.01.53:999][505]PIE: Play in editor total start time 0,099 seconds.
+[2022.09.14-21.01.54:009][505]LogSlate: New Slate User Created.  User Index 1, Is Virtual User: 0
+[2022.09.14-21.01.54:010][505]LogSlate: Slate User Registered.  User Index 1, Is Virtual User: 0
+[2022.09.14-21.02.02:569][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.14-21.02.02:569][ 16]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Level/Game/sous_niveau/UEDPIE_0_Waterfall
+[2022.09.14-21.02.02:569][ 16]LogWorld: UWorld::CleanupWorld for Waterfall, bSessionEnded=true, bCleanupResources=true
+[2022.09.14-21.02.02:569][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.14-21.02.02:577][ 16]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.09.14-21.02.02:584][ 16]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.14-21.02.02:589][ 16]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.09.14-21.02.02:590][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.14-21.02.02:591][ 16]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.09.14-21.02.02:595][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2022.09.14-21.02.02:657][ 18]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.09.14-21.02.06:037][220]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2022.09.14-21.02.06:777][261]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.09.14-21.02.06:812][261]LogSavePackage: Moving '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Saved/Waterfall775484CC4044F953DD58B4B3B6DD2088.tmp' to '../../../../../CoursCegep/Session Automne 2022/Projet agile/PotionPartyGame/A22_PA_PotionParty/PotionParty/Content/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.umap'
+[2022.09.14-21.02.06:832][261]AssetCheck: New page: Asset Save: Waterfall
+[2022.09.14-21.02.06:832][261]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Level/Game/sous_niveau/Waterfall.Waterfall
